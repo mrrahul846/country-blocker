@@ -1,9 +1,10 @@
 {
-  "name": "country-blocker",
+  "name": "onlyfans-blocker",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  }
+    "build": "",
+    "start": ""
+  },
+  "dependencies": {}
 }
